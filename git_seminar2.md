@@ -11,3 +11,7 @@
 * git status
 
 #NEW command
+
+NEW3
+NEW4
+NEW5
