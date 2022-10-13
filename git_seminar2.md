@@ -14,3 +14,7 @@
 #NEW command
 
 * git log
+
+NEW5
+NEW7
+NEW8
