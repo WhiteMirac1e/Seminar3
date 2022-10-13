@@ -5,3 +5,5 @@
 * git status
 
 #NEW command
+
+* git log
