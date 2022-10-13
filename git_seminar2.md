@@ -11,3 +11,6 @@
 * git status
 
 #NEW command
+#NEW command
+
+* git log
