@@ -6,3 +6,8 @@
 
 # git add
 * git branch
+# git branch
+
+* git status
+
+#NEW command
